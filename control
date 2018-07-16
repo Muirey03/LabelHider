@@ -1,0 +1,9 @@
+Package: com.muirey03.labelhider
+Name: LabelHider
+Depends: mobilesubstrate, preferenceloader
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Advanced options for hiding icon labels
+Maintainer: Muirey03
+Author: Muirey03
+Section: Tweaks
